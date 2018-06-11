@@ -194,6 +194,13 @@ section #main {
     border: #ccc solid 1px;
     border-radius: 0.6em;
     display: table-cell;
+    min-height: 375px;
+   }
+   section div.panel button {
+       position: absolute;
+       bottom: 5px;
+       right: 5px;
+
    }
    section div.panel img.ToyType{
     width: 100%;
